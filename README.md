@@ -1,5 +1,5 @@
 # MusicFy 
-![MusicFy - Sua música para qualquer hora](/img/MusicFy_Header.png)
+![MusicFy - Sua música para qualquer hora](/img/MusicFy_header.png)
 ## Descrição 
 Projeto de streaming de musica baseado no layout do spotify. Apresentado para o curso Desenvolvimento Web 2020 da Udemy 
 ***
@@ -9,8 +9,8 @@ O objetivo desse projeto é integrar e utilizar o bootstrap para construir  proj
 :white_check_mark:  Finalizado 
 ___
 ## Imagens
-![](/img/MusicFy_Header.png)
-![](/img/MusicFy_Main.png)
+![](/img/MusicFy_header.png)
+![](/img/MusicFy_main.png)
 ![](/img/MusicFy_footer.png)
 
 ## Tecnologias Utilzadas 
